@@ -1,6 +1,4 @@
 # cloud_native_java
-my practice to spring cloud
-
 
 Calling Auth service:
 POST x-www-form-urlencoded data to http://localhost:9191/uaa/oauth/token. 
